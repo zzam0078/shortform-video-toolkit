@@ -1,0 +1,7 @@
+__pycache__/
+*.mp4
+*.mov
+*.wav
+*.mp3
+_bgm_index.json
+_bgm_usage_log.json
